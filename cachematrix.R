@@ -5,7 +5,7 @@
 #the last retrival and now is not refreshed.
 
 
-## This function create special matrix and will cache its inverse
+## This function creates special matrix and will cache its inverse
 #the function can be described basically into 4 components
 #Set the value of the matrix
 #get the valude of the matrix
